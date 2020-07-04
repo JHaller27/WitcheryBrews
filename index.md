@@ -39,22 +39,13 @@ _*Exceptions/clarifications marked in Effects as (inv: ...))_
 Use colored wool to change the brew color.
 
 Valid colors:
-* White
-* Orange
-* Magenta
-* Light blue
-* Yellow
-* Lime
-* Pink
-* Gray
-* Light gray
-* Cyan
-* Purple
-* Blue
-* Brown
-* Green
-* Red
-* Black
+
+| 1 | 2 | 3 | 4 |
+|:--|:--|:--|:--|
+| White | Red | Green | Pink |
+| Light gray | Orange | Cyan | Magenta |
+| Gray | Yellow | Light Blue | Purple |
+| Black | Lime | Blue | Brown |
 
 # Power
 
