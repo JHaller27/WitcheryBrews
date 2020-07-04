@@ -11,7 +11,7 @@ _Must be added **in order**_
 | Diamond | +2 | 150 (210) |
 | Netherwart | +2 | 50 (70) |
 | Diamond Vapor | +2 | 150 (210) |
-| Netherstar | +4 |  |
+| Netherstar | +4 | ??? |
 
 # Modifiers
 
